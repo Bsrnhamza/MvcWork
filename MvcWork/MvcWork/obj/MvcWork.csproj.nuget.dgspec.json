@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HamzaBsrn\\source\\repos\\MvcWork\\MvcWork\\MvcWork.csproj": {}
+    "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\MvcWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HamzaBsrn\\source\\repos\\MvcWork\\MvcWork\\MvcWork.csproj": {
+    "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\MvcWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HamzaBsrn\\source\\repos\\MvcWork\\MvcWork\\MvcWork.csproj",
+        "projectUniqueName": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\MvcWork.csproj",
         "projectName": "MvcWork",
-        "projectPath": "C:\\Users\\HamzaBsrn\\source\\repos\\MvcWork\\MvcWork\\MvcWork.csproj",
+        "projectPath": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\MvcWork.csproj",
         "packagesPath": "C:\\Users\\HamzaBsrn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HamzaBsrn\\source\\repos\\MvcWork\\MvcWork\\obj\\",
+        "outputPath": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HamzaBsrn\\AppData\\Roaming\\NuGet\\NuGet.Config",
