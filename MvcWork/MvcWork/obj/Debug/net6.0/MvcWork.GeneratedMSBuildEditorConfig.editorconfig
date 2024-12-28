@@ -18,12 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\HamzaBsrn\Documents\GitHub\MvcWork\MvcWork\MvcWork
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/HamzaBsrn/Documents/GitHub/MvcWork/MvcWork/MvcWork/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/HamzaBsrn/Documents/GitHub/MvcWork/MvcWork/MvcWork/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/HamzaBsrn/Documents/GitHub/MvcWork/MvcWork/MvcWork/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HamzaBsrn/Documents/GitHub/MvcWork/MvcWork/MvcWork/Views/Shared/Components/_HeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/HamzaBsrn/Documents/GitHub/MvcWork/MvcWork/MvcWork/Views/Shared/Error.cshtml]

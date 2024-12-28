@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|c:\\users\\hamzabsrn\\documents\\github\\mvcwork\\mvcwork\\mvcwork\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|solutionrelative:mvcwork\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|c:\\users\\hamzabsrn\\documents\\github\\mvcwork\\mvcwork\\mvcwork\\views\\shared\\components\\_headcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|solutionrelative:mvcwork\\views\\shared\\components\\_headcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|c:\\users\\hamzabsrn\\documents\\github\\mvcwork\\mvcwork\\mvcwork\\viewcomponents\\_headcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|solutionrelative:mvcwork\\viewcomponents\\_headcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|c:\\users\\hamzabsrn\\documents\\github\\mvcwork\\mvcwork\\mvcwork\\wwwroot\\hola-master\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|solutionrelative:mvcwork\\wwwroot\\hola-master\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|c:\\users\\hamzabsrn\\documents\\github\\mvcwork\\mvcwork\\mvcwork\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|solutionrelative:mvcwork\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|c:\\users\\hamzabsrn\\documents\\github\\mvcwork\\mvcwork\\mvcwork\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|solutionrelative:mvcwork\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|c:\\users\\hamzabsrn\\documents\\github\\mvcwork\\mvcwork\\mvcwork\\dal\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|solutionrelative:mvcwork\\dal\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\Migrations\\20241228152100_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MvcWork\\Migrations\\20241228152100_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|c:\\users\\hamzabsrn\\documents\\github\\mvcwork\\mvcwork\\mvcwork\\dal\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|solutionrelative:mvcwork\\dal\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|c:\\users\\hamzabsrn\\documents\\github\\mvcwork\\mvcwork\\mvcwork\\dal\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|solutionrelative:mvcwork\\dal\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|c:\\users\\hamzabsrn\\documents\\github\\mvcwork\\mvcwork\\mvcwork\\dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|solutionrelative:mvcwork\\dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|c:\\users\\hamzabsrn\\documents\\github\\mvcwork\\mvcwork\\mvcwork\\dal\\entities\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|solutionrelative:mvcwork\\dal\\entities\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|c:\\users\\hamzabsrn\\documents\\github\\mvcwork\\mvcwork\\mvcwork\\dal\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|solutionrelative:mvcwork\\dal\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|c:\\users\\hamzabsrn\\documents\\github\\mvcwork\\mvcwork\\mvcwork\\dal\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|solutionrelative:mvcwork\\dal\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|c:\\users\\hamzabsrn\\documents\\github\\mvcwork\\mvcwork\\mvcwork\\dal\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33970320-EC98-4527-8C02-4B54C0909CA2}|MvcWork\\MvcWork.csproj|solutionrelative:mvcwork\\dal\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +70,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MvcWork\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MvcWork\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T15:53:29.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_HeadComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\ViewComponents\\_HeadComponentPartial.cs",
+              "RelativeDocumentMoniker": "MvcWork\\ViewComponents\\_HeadComponentPartial.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\ViewComponents\\_HeadComponentPartial.cs",
+              "RelativeToolTip": "MvcWork\\ViewComponents\\_HeadComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:49:22.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\wwwroot\\hola-master\\index.html",
+              "RelativeDocumentMoniker": "MvcWork\\wwwroot\\hola-master\\index.html",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\wwwroot\\hola-master\\index.html",
+              "RelativeToolTip": "MvcWork\\wwwroot\\hola-master\\index.html",
+              "ViewState": "AQIAAIIDAAAAAAAAAAAkwJ8DAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-28T15:34:19.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcWork\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "MvcWork\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T15:28:49.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "MvcWork\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "MvcWork\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:26:59.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcWork\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcWork\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:26:24.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241228152100_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\Migrations\\20241228152100_mig1.cs",
+              "RelativeDocumentMoniker": "MvcWork\\Migrations\\20241228152100_mig1.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\Migrations\\20241228152100_mig1.cs",
+              "RelativeToolTip": "MvcWork\\Migrations\\20241228152100_mig1.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:21:00.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\DAL\\Context\\MyContext.cs",
+              "RelativeDocumentMoniker": "MvcWork\\DAL\\Context\\MyContext.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\DAL\\Context\\MyContext.cs",
+              "RelativeToolTip": "MvcWork\\DAL\\Context\\MyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:10:34.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\DAL\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "MvcWork\\DAL\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\DAL\\Entities\\Contact.cs",
+              "RelativeToolTip": "MvcWork\\DAL\\Entities\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:00:35.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Testimonial.cs",
               "DocumentMoniker": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\DAL\\Entities\\Testimonial.cs",
               "RelativeDocumentMoniker": "MvcWork\\DAL\\Entities\\Testimonial.cs",
@@ -51,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Portfolio.cs",
               "DocumentMoniker": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\DAL\\Entities\\Portfolio.cs",
               "RelativeDocumentMoniker": "MvcWork\\DAL\\Entities\\Portfolio.cs",
@@ -64,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Experience.cs",
               "DocumentMoniker": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\DAL\\Entities\\Experience.cs",
               "RelativeDocumentMoniker": "MvcWork\\DAL\\Entities\\Experience.cs",
@@ -77,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "Skill.cs",
               "DocumentMoniker": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\DAL\\Entities\\Skill.cs",
               "RelativeDocumentMoniker": "MvcWork\\DAL\\Entities\\Skill.cs",
@@ -90,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "About.cs",
               "DocumentMoniker": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\DAL\\Entities\\About.cs",
               "RelativeDocumentMoniker": "MvcWork\\DAL\\Entities\\About.cs",
@@ -103,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "Feature.cs",
               "DocumentMoniker": "C:\\Users\\HamzaBsrn\\Documents\\GitHub\\MvcWork\\MvcWork\\MvcWork\\DAL\\Entities\\Feature.cs",
               "RelativeDocumentMoniker": "MvcWork\\DAL\\Entities\\Feature.cs",
