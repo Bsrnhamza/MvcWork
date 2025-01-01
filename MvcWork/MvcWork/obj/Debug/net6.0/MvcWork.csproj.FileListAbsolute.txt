@@ -66,9 +66,7 @@ C:\Users\HamzaBsrn\Documents\GitHub\MvcWork\MvcWork\MvcWork\obj\Debug\net6.0\sta
 C:\Users\HamzaBsrn\Documents\GitHub\MvcWork\MvcWork\MvcWork\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MvcWork.props
 C:\Users\HamzaBsrn\Documents\GitHub\MvcWork\MvcWork\MvcWork\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MvcWork.props
 C:\Users\HamzaBsrn\Documents\GitHub\MvcWork\MvcWork\MvcWork\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\HamzaBsrn\Documents\GitHub\MvcWork\MvcWork\MvcWork\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\HamzaBsrn\Documents\GitHub\MvcWork\MvcWork\MvcWork\obj\Debug\net6.0\scopedcss\bundle\MvcWork.styles.css
-C:\Users\HamzaBsrn\Documents\GitHub\MvcWork\MvcWork\MvcWork\obj\Debug\net6.0\scopedcss\projectbundle\MvcWork.bundle.scp.css
 C:\Users\HamzaBsrn\Documents\GitHub\MvcWork\MvcWork\MvcWork\obj\Debug\net6.0\MvcWork.csproj.Up2Date
 C:\Users\HamzaBsrn\Documents\GitHub\MvcWork\MvcWork\MvcWork\obj\Debug\net6.0\MvcWork.dll
 C:\Users\HamzaBsrn\Documents\GitHub\MvcWork\MvcWork\MvcWork\obj\Debug\net6.0\refint\MvcWork.dll
