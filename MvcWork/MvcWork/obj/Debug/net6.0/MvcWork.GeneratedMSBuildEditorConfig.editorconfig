@@ -126,6 +126,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/HamzaBsrn/Documents/GitHub/MvcWork/MvcWork/MvcWork/Views/ToDoList/CreateToDoList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb0xpc3RcQ3JlYXRlVG9Eb0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HamzaBsrn/Documents/GitHub/MvcWork/MvcWork/MvcWork/Views/ToDoList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb0xpc3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HamzaBsrn/Documents/GitHub/MvcWork/MvcWork/MvcWork/Views/ToDoList/UpdateToDoList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb0xpc3RcVXBkYXRlVG9Eb0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/HamzaBsrn/Documents/GitHub/MvcWork/MvcWork/MvcWork/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
